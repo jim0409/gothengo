@@ -1,4 +1,2 @@
-.vscode
-debug
-leetcode*
 .DS_Store
+vendor
